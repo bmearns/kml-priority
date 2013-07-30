@@ -15,5 +15,5 @@ Right: -75.728799092
 Bottom: 39.656921439
 
 To use:
-#1. set table name and conditions in those parameters, inline in kml-priority.php
-#2. add database connection information to kml-priority-dbinfo.php, with proper permissions ... you could also provide this inline in kml-priority.php, but that would be less secure
+1. set table name and conditions in those parameters, inline in kml-priority.php
+2. add database connection information to kml-priority-dbinfo.php, with proper permissions ... you could also provide this inline in kml-priority.php, but that would be less secure
